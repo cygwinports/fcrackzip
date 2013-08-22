@@ -1,0 +1,10 @@
+NAME="fcrackzip"
+VERSION=1.0
+RELEASE=1
+CATEGORY="Archive"
+SUMMARY="Zip password cracker"
+DESCRIPTION="fcrackzip searches each zipfile given for encrypted files and
+tries to guess the password. All files must be encrypted with the same
+password, the more files you provide, the better."
+HOMEPAGE="http://oldhome.schmorp.de/marc/fcrackzip.html"
+SRC_URI="http://oldhome.schmorp.de/marc/data/fcrackzip-${VERSION}.tar.gz"
